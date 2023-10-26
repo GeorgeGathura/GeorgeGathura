@@ -36,6 +36,7 @@ My Stack is
 - 🔭 Projects Working On:
 
 Solvit (2 versions)
+
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![NUXT](https://img.shields.io/badge/nuxtdotjs-%20Intuitive%20VueJs%20Framework%20-7F52FF?style=flat&logo=nuxtdotjs&logoColor=%2300DC82&label=nuxtdotjs&labelColor=white&color=%2300DC82&link=https%3A%2F%2Fnuxt.com)
 
