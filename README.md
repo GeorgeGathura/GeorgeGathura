@@ -12,6 +12,7 @@ My Stack is
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/livewire-%20Intuitive%20VueJs%20Framework%20-7F52FF?style=flat&logo=livewire&logoColor=%234E56A6&label=livewire&labelColor=black&color=%234E56A6&link=https%3A%2F%2Fnuxt.com)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -28,11 +29,12 @@ My Stack is
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 - 🌱 I’m currently learning:
-- ![Kotlin](https://img.shields.io/badge/Kotlin_7F52FF?style=flat-square&logo=kotlin&logoColor=purple&label=Kotlin&link=https%3A%2F%2Fflutter.dev)
-- ![Flutter](https://img.shields.io/badge/flutter?style=flat-square&logo=flutter&logoColor=%2302569B&label=Flutter&link=https%3A%2F%2Fflutter.dev)
+- ![Kotlin](https://img.shields.io/badge/Kotlin-Concise.Cross%20Platform-7F52FF?style=flat&logo=kotlin&logoColor=purple&label=Kotlin&labelColor=black&color=purple&link=https%3A%2F%2Fkotlinlang.org)
+- ![Flutter](https://img.shields.io/badge/Flutter-Cross%20Platform-7F52FF?style=flat&logo=flutter&logoColor=%2302569B&label=Flutter&labelColor=white&color=%2302569B&link=https%3A%2F%2Fflutter.dev)
 
 - 🔭 Projects Working On:
-Solvit (2 versions; wordpress & NUXT)
+Solvit (2 versions; ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=white) & ![NUXT](https://img.shields.io/badge/nuxtdotjs-%20Intuitive%20VueJs%20Framework%20-7F52FF?style=flat&logo=nuxtdotjs&logoColor=%2300DC82&label=nuxtdotjs&labelColor=white&color=%2300DC82&link=https%3A%2F%2Fnuxt.com)
+)
 Audiense, An Ad Platform (Private Repo running on Laravel/Livewire/Tailwind)
 
 - 👯 I’m looking to collaborate on ...
