@@ -33,16 +33,6 @@ My Stack is
 ![Kotlin](https://img.shields.io/badge/Kotlin-Concise.Cross%20Platform-7F52FF?style=flat&logo=kotlin&logoColor=purple&label=Kotlin&labelColor=black&color=purple&link=https%3A%2F%2Fkotlinlang.org)
 ![Flutter](https://img.shields.io/badge/Flutter-Cross%20Platform-7F52FF?style=flat&logo=flutter&logoColor=%2302569B&label=Flutter&labelColor=white&color=%2302569B&link=https%3A%2F%2Fflutter.dev)
 
-- 🔭 Projects Working On:
-
-Audiense, An Ad Platform (Private Repo) running on:
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Livewire](https://img.shields.io/badge/livewire-7F52FF?style=flat&logo=livewire&logoColor=%234E56A6&label=livewire&labelColor=black&color=%234E56A6)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0CC1F3?style=flat-square&logo=docker&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-663399?style=flat-square&logo=alpine.js&logoColor=white)
-
 
 - 👯 I’m looking to collaborate on ...
 
